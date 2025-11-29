@@ -3,5 +3,10 @@
         "path": "master.tsv",
         "name": "Russian By DOG729",
         "version": "0.0.5"
+    },
+    {
+        "path": "debug_translation.tsv",
+        "name": "DEBUG ONLY",
+        "version": "0.0.1"
     }
 ]
