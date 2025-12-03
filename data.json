@@ -2,6 +2,11 @@
     {
         "path": "master.tsv",
         "name": "Russian By DOG729",
+        "version": "0.0.57"
+    },
+    {
+        "path": "old_master.tsv",
+        "name": "[old] Russian By DOG729",
         "version": "0.0.55"
     },
     {
