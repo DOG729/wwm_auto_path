@@ -12,6 +12,6 @@
     {
         "path": "debug_translation.tsv",
         "name": "DEBUG ONLY",
-        "version": "0.0.2"
+        "version": "0.0.21"
     }
 ]
