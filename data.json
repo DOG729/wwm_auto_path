@@ -5,6 +5,11 @@
         "version": "0.0.59"
     },
     {
+        "path": "test_master.tsv",
+        "name": "[TEST] Russian By DOG729",
+        "version": "0.0.60"
+    },
+    {
         "path": "old_master.tsv",
         "name": "[old] Russian By DOG729",
         "version": "0.0.55"
