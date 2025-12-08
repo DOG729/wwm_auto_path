@@ -18,5 +18,10 @@
         "path": "debug_translation.tsv",
         "name": "DEBUG ONLY",
         "version": "0.0.61"
+    },
+    {
+        "path": "debug_translation_en.tsv",
+        "name": "DEBUG ONLY ENGLISH",
+        "version": "0.0.01"
     }
 ]
