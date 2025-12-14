@@ -10,11 +10,6 @@
         "version": "0.0.68"
     },
     {
-        "path": "old_master.tsv",
-        "name": "[old] Russian By DOG729",
-        "version": "0.0.55"
-    },
-    {
         "path": "debug_translation.tsv",
         "name": "DEBUG ONLY",
         "version": "0.0.66"
