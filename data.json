@@ -7,7 +7,7 @@
     {
         "path": "test_master.tsv",
         "name": "[TEST] Russian By DOG729",
-        "version": "0.0.69"
+        "version": "0.0.70"
     },
     {
         "path": "old_master.tsv",
