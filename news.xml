@@ -4,7 +4,15 @@
     <link>https://github.com/DOG729/wwm_russian</link>
     <description>Последние новости и обновления русской локализации WWM.</description>
     <language>ru</language>
-     <item>
+    <item>
+      <title>Обновление тестового перевода до версии 0.0.75</title>
+      <description>
+        Обновление <b>тестовый перевод</b>, улучшено качество локализации, исправлены ошибки.
+      </description>
+      <pubDate>2025-12-25 19:40:00</pubDate>
+      <guid>wwmtest-0.0.75</guid>
+    </item>
+    <item>
       <title>Обновление тестового перевода до версии 0.0.73</title>
       <description>
         Обновление <b>тестовый перевод</b>, улучшено качество локализации, исправлены ошибки.
