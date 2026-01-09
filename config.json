@@ -11,16 +11,16 @@
             "map" : false,
             "diff" : false
         },
-        //\Package\HD\locale\*
-        "Package" : {
+        //\Package\HD\oversea\locale\*
+        "Package_oversea" : {
             "map" : true,
             "diff" : false
         },
-        //\Package\HD\oversea\locale\*
-        "Package_oversea" : {
+        //\Package\HD\locale\*
+        "Package" : {
             "map" : false,
             "diff" : false
-        }
+        } 
     },
     "wwm_client" : {
         "default_language" : "en",
