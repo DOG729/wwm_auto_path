@@ -1,0 +1,51 @@
+{
+    "steam" : {
+        "default_language" : "en",
+        //\LocalData\Patch\HD\oversea\locale\*
+        "LocalData_oversea" : {
+            "map" : true,
+            "diff" : false
+        },
+        //\LocalData\Patch\HD\locale\*
+        "LocalData" : {
+            "map" : false,
+            "diff" : false
+        },
+        //\Package\HD\locale\*
+        "Package" : {
+            "map" : true,
+            "diff" : false
+        },
+        //\Package\HD\oversea\locale\*
+        "Package_oversea" : {
+            "map" : false,
+            "diff" : false
+        }
+    },
+    "wwm_client" : {
+        "default_language" : "en",
+        //\LocalData\Patch\HD\oversea\locale\*
+        "LocalData_oversea" : {
+            "map" : true,
+            "diff" : true
+        },
+        //\Package\HD\oversea\locale\*
+        "LocalData" : {
+            "map" : false,
+            "diff" : false
+        }
+    },
+    "wwm_client_cn" : {
+        "default_language" : "zh_cn",
+        //\LocalData\Patch\HD\oversea\locale\*
+        "LocalData_oversea" : {
+            "map" : true,
+            "diff" : true
+        },
+        //\Package\HD\oversea\locale\*
+        "LocalData" : {
+            "map" : false,
+            "diff" : false
+        }
+    }
+}
