@@ -27,7 +27,7 @@
         //\LocalData\Patch\HD\oversea\locale\*
         "LocalData_oversea" : {
             "map" : true,
-            "diff" : true
+            "diff" : false
         },
         //\Package\HD\oversea\locale\*
         "LocalData" : {
@@ -40,7 +40,7 @@
         //\LocalData\Patch\HD\oversea\locale\*
         "LocalData_oversea" : {
             "map" : true,
-            "diff" : true
+            "diff" : false
         },
         //\Package\HD\oversea\locale\*
         "LocalData" : {
