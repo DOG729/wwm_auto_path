@@ -14,7 +14,7 @@
         //\Package\HD\oversea\locale\*
         "Package_oversea" : {
             "map" : true,
-            "diff" : false
+            "diff" : true
         },
         //\Package\HD\locale\*
         "Package" : {
