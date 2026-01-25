@@ -2,17 +2,17 @@
     {
         "path": "master.tsv",
         "name": "Russian By DOG729",
-        "version": "0.0.95"
+        "version": "0.0.96"
     },
     {
         "path": "test_master.tsv",
         "name": "[TEST] Russian By DOG729",
-        "version": "0.0.96"
+        "version": "0.0.97"
     },
     {
         "path": "old_master.tsv",
         "name": "[OLD] Russian By DOG729",
-        "version": "0.0.89"
+        "version": "0.0.95"
     },
     {
         "path": "debug_translation.tsv",
