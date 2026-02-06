@@ -22,6 +22,29 @@
             "diff" : false
         } 
     },
+    "epic" : {
+        "default_language" : "en",
+        //\LocalData\Patch\HD\oversea\locale\*
+        "LocalData_oversea" : {
+            "map" : true,
+            "diff" : false
+        },
+        //\LocalData\Patch\HD\locale\*
+        "LocalData" : {
+            "map" : false,
+            "diff" : false
+        },
+        //\Package\HD\oversea\locale\*
+        "Package_oversea" : {
+            "map" : true,
+            "diff" : true
+        },
+        //\Package\HD\locale\*
+        "Package" : {
+            "map" : false,
+            "diff" : false
+        }
+    },
     "wwm_client" : {
         "default_language" : "en",
         //\LocalData\Patch\HD\oversea\locale\*
