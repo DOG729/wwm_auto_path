@@ -4,7 +4,7 @@
         //\LocalData\Patch\HD\oversea\locale\*
         "LocalData_oversea" : {
             "map" : true,
-            "diff" : false
+            "diff" : true
         },
         //\LocalData\Patch\HD\locale\*
         "LocalData" : {
