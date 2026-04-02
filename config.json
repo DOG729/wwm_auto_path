@@ -1,6 +1,6 @@
 {
     "steam" : {
-        "default_language" : "en",
+        "default_language" : "ru",
         //\LocalData\Patch\HD\oversea\locale\*
         "LocalData_oversea" : {
             "map" : true,
@@ -23,7 +23,7 @@
         } 
     },
     "epic" : {
-        "default_language" : "en",
+        "default_language" : "ru",
         //\LocalData\Patch\HD\oversea\locale\*
         "LocalData_oversea" : {
             "map" : true,
@@ -46,7 +46,7 @@
         }
     },
     "wwm_client" : {
-        "default_language" : "en",
+        "default_language" : "ru",
         //\LocalData\Patch\HD\oversea\locale\*
         "LocalData_oversea" : {
             "map" : true,
